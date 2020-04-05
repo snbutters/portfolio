@@ -9,21 +9,21 @@ h4 {
   padding-top: 12px;
 }
 
+p {
+  font-size: 17px;
+}
+
+ul {
+  font-size: 17px;
+}
+
 .image {
   float: left;
-  padding: 25px;
+  padding: 30px;
   padding-left: 50px;
 }
 
 .personal {
-  padding-top: 25px;
+  padding-top: 30px;
   font-family: 'Lucida Sans';
-}
-
-p {
-  font-size: 17.5px;
-}
-
-ul {
-  font-size: 17.5px;
 }
