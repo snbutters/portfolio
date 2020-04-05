@@ -1,17 +1,23 @@
 h1 {
   font-family: 'Lucida Handwriting';
+  font-size: 40px;
+  font-weight: bold;
   text-align: center;
 }
 
 .image {
   float: left;
-  padding: 15px;
+  padding: 25px;
   padding-left: 50px;
+  width: 25%;
+  height: 25%;
 }
 
-.column {
-  padding: 25px;
-  width: 600px;
-  float: left;
+.personal {
+  padding-top: 25px;
   font-family: 'Lucida Sans';
+}
+
+p {
+  font-size: 17px;
 }
