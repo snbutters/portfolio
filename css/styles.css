@@ -5,14 +5,13 @@ h1 {
 
 .image {
   float: left;
-  padding:15px;
-  padding-left: 20px;
+  padding: 15px;
+  padding-left: 50px;
 }
 
-h3 {
-  padding-top: 20px;
-}
-
-.personal {
+.column {
+  padding: 25px;
+  width: 600px;
+  float: left;
   font-family: 'Lucida Sans';
 }
