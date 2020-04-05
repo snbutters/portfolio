@@ -5,12 +5,14 @@ h1 {
   text-align: center;
 }
 
+h4 {
+  padding-top: 12px;
+}
+
 .image {
   float: left;
   padding: 25px;
   padding-left: 50px;
-  width: 25%;
-  height: 25%;
 }
 
 .personal {
@@ -19,5 +21,9 @@ h1 {
 }
 
 p {
-  font-size: 17px;
+  font-size: 17.5px;
+}
+
+ul {
+  font-size: 17.5px;
 }
