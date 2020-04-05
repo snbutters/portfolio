@@ -5,12 +5,8 @@ h1 {
   text-align: center;
 }
 
-h4 {
-  padding-top: 12px;
-}
-
 p {
-  font-size: 17px;
+  font-size: 18px;
 }
 
 ul {
@@ -19,11 +15,11 @@ ul {
 
 .image {
   float: left;
-  padding: 30px;
+  padding: 20px;
   padding-left: 50px;
 }
 
-.personal {
-  padding-top: 30px;
+.container {
+  padding-top: 20px;
   font-family: 'Lucida Sans';
 }
