@@ -5,21 +5,26 @@ h1 {
   text-align: center;
 }
 
-p {
-  font-size: 18px;
+img {
+  float: left;
+  padding: 20px;
+  padding-left: 50px;
+  padding-bottom: 30px;
+}
+
+.container {
+  padding-top: 20px;
+  font-family: 'Lucida Sans';
+}
+
+.intro {
+  font-size: 18px
 }
 
 ul {
   font-size: 17px;
 }
 
-.image {
-  float: left;
-  padding: 20px;
-  padding-left: 50px;
-}
-
-.container {
-  padding-top: 20px;
-  font-family: 'Lucida Sans';
+.projects {
+  font-size: 16px;
 }
