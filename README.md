@@ -2,7 +2,7 @@
 
 #### Epicodus Independent Project, 04.06.2020
 
-### By: Samantha N Butters
+#### By: Samantha N Butters
 
 ## Description
 
@@ -11,21 +11,19 @@ This is my portfolio webpage, which will later act as the landing page for my pr
 ## Setup/Installation Requirements
 
 #### To clone the repository:
-1. Copy the following link: https://github.com/snbutters/portfolio.git
-2. Open your terminal
-3. Type git clone (paste link)
 
-You can also [click here](https://snbutters.github.io/portfolio/) for direct access to the webpage.
+* Copy the following link: https://github.com/snbutters/portfolio.git
+* Open your terminal
+* Type git clone (paste link)
+
+*You can also [click here](https://snbutters.github.io/portfolio/) for direct access to the webpage.*
 
 ## Technologies Used
 
-HTML
-
-CSS
-
-Bootstrap
-
-Markdown
+* HTML
+* CSS
+* Bootstrap
+* Markdown
 
 ## Legal
 
