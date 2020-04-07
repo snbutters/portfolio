@@ -22,8 +22,9 @@ img {
   font-size: 17px;
 }
 
-.name {
-  color: rgb(87, 50, 124);
+.job {
+  color: rgb(8, 141, 141);
+  font-weight: bold;
 }
 
 ul {
