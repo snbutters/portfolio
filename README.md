@@ -1,8 +1,8 @@
 # Portfolio Landing Page
 
-#### _Epicodus Independent Project, 04.06.20_
+#### Epicodus Independent Project, 04.06.2020
 
-#### By Samantha N Butters
+### By: Samantha N Butters
 
 ## Description
 
@@ -11,11 +11,11 @@ This is my portfolio webpage, which will later act as the landing page for my pr
 ## Setup/Installation Requirements
 
 #### To clone the repository:
-* Copy the following link: https://github.com/snbutters/portfolio.git
-* Open your terminal
-* Type git clone (paste repository link)
+1. Copy the following link: https://github.com/snbutters/portfolio.git
+2. Open your terminal
+3. Type git clone (paste link)
 
-You can also *[click here](https://)* for direct access to the webpage.
+You can also [click here](https://snbutters.github.io/portfolio/) for direct access to the webpage.
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ Bootstrap
 
 Markdown
 
-### Legal
+## Legal
 
 This software is licensed under the MIT license.
 
