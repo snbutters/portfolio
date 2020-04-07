@@ -19,7 +19,11 @@ img {
 }
 
 .intro {
-  font-size: 17px
+  font-size: 17px;
+}
+
+.name {
+  color: rgb(87, 50, 124);
 }
 
 ul {
