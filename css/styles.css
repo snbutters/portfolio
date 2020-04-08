@@ -12,9 +12,7 @@ body {
 }
 
 .container {
-  padding-top: 15px;
   font-family: 'Lucida Sans';
-  box-align: center;
 }
 
 img {
@@ -22,7 +20,7 @@ img {
   padding-right: 15px;
   padding-left: 15px;
   padding-bottom: 15px;
-}
+} 
 
 .intro {
   font-size: 17px;
@@ -41,3 +39,4 @@ ul {
   padding-top: 15px;
   font-size: 16px;
 }
+ 
